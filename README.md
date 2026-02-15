@@ -21,17 +21,17 @@ Key Objectives:
 
 
 Data Cleaning: Handling missing values, unifying inconsistent location names (e.g., merging "EGE DENİZİ" variations), and formatting datetime objects.
-+2
+
 
 
 
 Temporal Analysis: Visualizing earthquake frequency trends over years, months, and seasons.
-+2
+
 
 
 
 Geospatial Analysis: Mapping epicenters using Folium to visualize the distribution of earthquakes across the North Anatolian and East Anatolian Fault lines.
-+1
+
 
 
 
@@ -42,7 +42,7 @@ Depth \& Magnitude Analysis: Investigating the correlation between depth and mag
 Regional Frequency: The Mediterranean (Akdeniz) and Aegean Sea (Ege Denizi) regions showed the highest frequency of seismic activity during the analyzed period .
 
 Magnitude Distribution: The majority of recorded earthquakes fall within the 3.5 - 6.0 Mw range. A histogram analysis reveals the frequency decay as magnitude increases.
-+1
+
 
 
 
@@ -67,7 +67,7 @@ Scikit-learn: Used for experimental risk modeling.
 ## ⚠️ Experimental Approach: Risk Heatmap
 
 As part of the project's experimental phase, we attempted to generate a "Risk Heatmap" using a basic Linear Regression model.
-+1
+
 
 Methodology: Locations (Latitude/Longitude) were encoded to visualize areas with historically higher magnitudes.
 
